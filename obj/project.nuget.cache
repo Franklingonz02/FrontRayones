@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WAYttj8gyUJXZQdDJ3hFvpXU2Hc8Okm65iTw4uT7yW7q7k2Z1OdVTS0O8eoE7jfHxg5IE3SIndokZqHv0W3U8g==",
+  "success": true,
+  "projectFilePath": "D:\\Traking\\frontRayones\\FrontRayones\\FrontRayones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gonzalez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Gonzalez\\.nuget\\packages\\syncfusion.compression.net.core\\20.3.0.47\\syncfusion.compression.net.core.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\Gonzalez\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\20.3.0.47\\syncfusion.ej2.aspnet.core.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\Gonzalez\\.nuget\\packages\\syncfusion.ej2.spreadsheet.aspnet.core\\20.3.0.47\\syncfusion.ej2.spreadsheet.aspnet.core.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\Gonzalez\\.nuget\\packages\\syncfusion.licensing\\20.3.0.47\\syncfusion.licensing.20.3.0.47.nupkg.sha512",
+    "C:\\Users\\Gonzalez\\.nuget\\packages\\syncfusion.xlsio.net.core\\20.3.0.47\\syncfusion.xlsio.net.core.20.3.0.47.nupkg.sha512"
+  ],
+  "logs": []
+}

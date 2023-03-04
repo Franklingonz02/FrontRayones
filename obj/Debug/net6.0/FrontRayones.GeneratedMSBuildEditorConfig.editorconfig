@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FrontRayones
+build_property.RootNamespace = FrontRayones
+build_property.ProjectDir = D:\Traking\frontRayones\FrontRayones\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Traking\frontRayones\FrontRayones
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/AccumulationChart/AccumulationChartFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjdW11bGF0aW9uQ2hhcnRcQWNjdW11bGF0aW9uQ2hhcnRGZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Chart/ChartFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcQ2hhcnRGZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/DashboardLayout/DashboardLayoutFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkTGF5b3V0XERhc2hib2FyZExheW91dEZlYXR1cmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/DataGrid/DataGridFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YUdyaWRcRGF0YUdyaWRGZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Home/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Pedidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Schedule/ScheduleFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcU2NoZWR1bGVGZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Shared/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/SideBar/SideBarFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lkZUJhclxTaWRlQmFyRmVhdHVyZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Spreadsheet/SpreadsheetFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByZWFkc2hlZXRcU3ByZWFkc2hlZXRGZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/TreeGrid/TreeGridFeatures.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJlZUdyaWRcVHJlZUdyaWRGZWF0dXJlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Traking/frontRayones/FrontRayones/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wk3ugsq38d
